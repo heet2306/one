@@ -1,0 +1,77 @@
+What is program?
+it is a set of instruction 
+
+ex-
+give me your phone 
+
+what is programming ?
+to create a program
+
+ex-pass his phone 
+
+using mouse & keybord
+
+types programming language?
+php,java,python
+1.POP procedural 
+Ex-C
+2.OOP -object
+Ex-C++
+3.Logical 
+Ex- prolog 
+4.Functional 
+Ex-python 
+
+WWW-World Wide Web
+ex-kitchen
+internet 
+
+
+Client & Server
+ex- hotel
+
+browser
+Client Request send 
+Server response 
+
+major aaps on internet 
+ex- social media apps
+	communications apps
+	entertainment 
+	travel 
+
+protocols ?
+a protocol is a set of rules 
+ex-english first letter must cap
+I Am .......
+Who Are You ????
+http/https
+ftp
+tcp
+ip
+
+What is Application Security?
+ex-new leptop 
+
+software application
+it is a type of software app that hepls in the automation of task based on the user input
+
+types of app software 
+1.app software
+ex- msoffice 
+2.system software 
+ex-notepad
+3.driver software
+ex-audio 
+4.middleware
+ex-database
+5.programming software
+ex-vscode
+
+
+environments in industry
+1.Analysis & design 
+2.development 
+3.the common build environment
+4.testing
+5.production
