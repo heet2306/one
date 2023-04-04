@@ -1,0 +1,209 @@
+1.What is program?
+->it is a set of instruction 
+
+real world: 
+ex-
+give me your phone 
+
+in industry:
+ex-command to your computer to start notepad
+
+2.What is programming ?
+->to create a program
+
+real world:
+ex-pass his phone 
+
+in industry:
+we are doing proramming using mouse & keybord
+
+3. What is progarmming language ?
+->A programming language is a way for programmers to communicate with computers.
+
+real world:
+We normally use to communicate with eachother in our mothertongue like hindi,gujarati it's called language 
+
+in industry:
+when programmers are communicate with computers  its called programming lanuage like python,java,php .....  
+ 
+4.Types programming language?
+there are many types of programmig language 
+->low-level & high-level
+
+low-level
+
+Machine Language
+Machine Language is hard to understand human beacause its binary (0&1)only CPU can understand this
+ex-when baby was just try to speak no one can understand ....
+
+Assembly Language
+assembly language is second genration lenguage it can understand optration like ADD(addition)........
+ex-when baby was speak a just some world like maa paa ...
+
+high-level
+Programming languages that are the most similar to the language (English) spoken by humans are known as high-level languages
+
+a.OOP
+->when language work on object base it called object-oriented programming 
+ex-C++
+
+b.POP
+->when language work on Procedural base it called Procedural-oriented programming
+ex-C
+
+c. Logical Programming
+ex-Prolog Language
+
+d.Functional Programming
+ex-Python Language
+
+5.WWW-World Wide Web ?
+->all the public websites or pages that users can access on their local computers and other devices through the internet
+
+->user can access website or page by using phone,leptop...
+
+ex-nest 
+if i'm a bird (internet) and nest (www) if i wwant a access of nest then it's necessary to be a bird  
+->like i want to access some website or page so internet connection is necessary 
+ 
+6.How internet Works ?
+->Internet works using protocols like http/https .......
+ 
+->using internet we can communicate with our friends who live on along the world 
+
+->oldest way to communicate using internet is email 
+
+ex- every society are working based on rules so our internet is also work on rules 
+
+7.network layers on client & server ?
+->
+
+		 Laptop
+		   |
+		   |
+		   |
+		   v 
+Tab<---------	internet  --------->mobile
+		   ^
+		   |
+		   |
+		   PC	
+internet also known as host
+ 
+Client-	client always send a request on internet with the help of browser 
+> client sometime active 
+Server - server always respond with the help of browser
+>server always active
+
+ex- if i'm going to hotel i'm requesting to kitchen with the help of waiter and kitchen respond me with the  help of waiter 
+
+8. Protocols ?
+-> a protocol is a set of rules 
+ex- in english first letter must be capital (Who Are You !!)
+In adani society that's a rule everyone must regiter their names first 
+
+there are so many rules like 
+1.HTTP - Hypertext Transfer Protocol or HTTPS - Hypertext Transfer Protocol Secure
+2. FTP(File Transfer protocols)
+3. Email Protocols(POP3,SMTP)
+4. TCP(Transmission control protocol) and UDP(User Datagram Protocol)
+
+
+9.Software Applications and its types?
+software->that things we can only see and use not touch
+software make user life easy 
+
+ex- video call we can see our friend over the world 
+
+->it is a type of software app that hepls in the automation of task based on the user input
+
+->software application makes user life easy 
+real world:
+we are using lift instead of stairs 
+in industry:
+ex-calculator all possible calculation calculate within the Sec 
+
+there are many types of software appliction 
+a.Application Software
+ex-Microsoft Office, Paint, Powerpoint ...
+
+b.System Software
+ex-Notepad ,Calculator ...
+
+c.Driver Software
+ex-Audio Driver,Video Driver ...
+
+d.Middleware
+ex-database middleware,application server middleware ..
+
+e.Program m ing Software
+ex-vscode, Turbo C ...
+
+->all software are made by user requriment 
+
+10.Software Architecture?
+->Software architecture is the blueprint of building software.
+ex-if builder build building he was ready his flow same as devloper will show his flow tp client 
+
+there are many layers software architecture
+1.Presentation layer
+in this layer devloper create a UI how website look like phone view , pc view ...
+
+2.Application layer
+in this layer devloper devlop the site or app using code
+
+3.Business layer
+in this layer company buy their domin ....
+
+4.Persistence layer
+in this layer we decided which functionality who can use this 
+
+5. Database layer
+in this layer we can decide which data store where using their functionality 
+
+11. Software Environment?
+->In Software Environment we decide the steps how we will make website or app 
+ex-if i want to go somewhere i analysis the price & days and more 
+then i'll book a flight & room etc..
+then go to airpot and that way i was decided
+then go there and enjoy
+then come back that's th full palne
+
+1. The analysis and design environment
+in this layer we analyasis the demand of the web or app and the work on design of web or app
+
+2. The development environment
+in this layer is devlopment layer on this devloper made the web or app using code we can provide them a tools and many more 
+
+3. The common build environment
+in this layer we can provide a space to delopers 
+
+4. The testing environment
+in this layer after made a web or app go to software tester if some correction then is come back to devloper for add that 
+
+5. The production environment
+in this layer we are host our websit or app
+
+12.Types of internet connections?
+->internet connections is like how many ways to get internet 
+
+ex- we are drive a bike in many ways by using one hand two hand without using hand in the end we are drive a bike same as 
+we are using internet in many ways like
+
+1. Digital subscriber line(DSL)
+2. Cable Internet
+3. Fiber Optic
+4. Satellite Internet
+5. Wireless
+6. Broadband over Power lines(BPL) 
+
+13.Source code?
+->source code is like how we dress up 
+->in programming our source code judge us how clean is and how sharpe is how many short tecnique are you use
+
+ex- if you want to go for a date how yoy are dress up  
+
+14.github?
+->git hub is like cold storage where we can put our potato  
+we can store our code on git hub so using that username anyone can show your code 
+
