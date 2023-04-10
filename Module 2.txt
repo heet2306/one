@@ -20,5 +20,86 @@ in programming term
 	I.inheritance 
 
 2.Inheritance 
-->Inheritance is a mechanism innn which one class inherits the property of other class .
+->Inheritance is a mechanism in which one class inherits the property of other class .
 ->when one class access the property of another class it's called inheritance  
+->ex.father's property derived to son it's called inheritance 
+->There are many types of inheritance 
+
+a.Single Inheritance
+In single inheritance there exists single base class and single derived class.
+ex-
+				Father -------->Base Class
+				   |
+				   |
+			           |
+				  Son-------->Derived Class
+
+
+b.Multiple Inheritance
+In multiple inheritances there exists single base class, single derived class and multiple intermediate base classes.
+ex-
+			Mother 			Father
+			  |			   |
+			  | 			   |
+			   -----------Child---------	
+		
+Ex-In a real-life scenario, a child inherits from their father and mother. This can be considered an example of multiple inheritance.
+
+c.Multilevel Inheritance
+A class can also be derived from one class, which is already derived from another class.
+ex-
+					Grand Parent
+					     |
+					     |
+					   Parent
+					     |
+					     |
+					   Child
+d.Hierarchical Inheritance
+In Hierarchical inheritance, more than one sub-class inherits the property of a single base class
+ex-
+					     Vehicle
+						|
+						|
+		----------------------------------------------------------------
+		|				|				|
+		|				|				|		
+	       Land			      Water			       Air
+		|				|				|				
+	    ---------			    ---------			   -----------			
+	    |	     |			    |        |			   |          |
+	   Car      Bus			   Ship     Boat		Aeroplane    Helicopter	
+
+
+e.Hybrid Inheritance
+Combining various types of inheritance like multiple, simple, and hierarchical inheritance is known as hybrid inheritance.
+
+ Single Inheritance
+-------------------
+|     Vehicle	  |
+|	 |	  |
+|	 |	  |
+|------	Car ---	  | -  Racing ---------	Multiple Inheritance
+-|-----|---------	|	     |
+ |	 | 		|  	     |
+ | 	 |		|	     |
+ |	 -----Ferrari----	     |
+ |------------------------------------
+
+3.Namespaces?
+->Namespaces in C++ are used to organize too many classes so that it can be easy to handle the application.
+->For accessing the class of a namespace, we need to use namespacename::classname. We can use using keyword so that we don't have to use complete name all the time.
+
+Ex-Consider a situation, when we have two persons with the same name, Raj, in the same class. Whenever we need to differentiate them definitely we would have to use some additional information along with their name, like either the area, if they live in different area or their mother’s or father’s name, etc.
+
+4. Static Keyword?
+->When static keyword is used, variable or data members or functions can not be modified again. It is allocated for the lifetime of program. Static functions can be called directly by using class name.
+->The static keyword is a non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class.
+
+5.Scope Resolution Operator
+The scope resolution operator ( :: ) is used for several reasons. For example: If the global variable name is same as local variable name, the scope resolution operator will be used to call the global variable. It is also used to define a function outside the class and used to access the static variables of class
+
+6.comparison of class and object?
+->A class is a group of similar objects. Object is a real-world entity such as book, car, etc. Class is a logical entity. Object is a physical entity
+Ex- Class - Watches 
+    Object - Smart Watch , Digital Watch , Analog Watch , Automatic Mechanical Watch 
